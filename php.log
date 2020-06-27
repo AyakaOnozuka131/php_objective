@@ -1,0 +1,836 @@
+[03-May-2020 03:34:01 Asia/Tokyo] POSTされた！
+[03-May-2020 03:34:01 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:34:01 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(167): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:34:57 Asia/Tokyo] POSTされた！
+[03-May-2020 03:34:57 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:34:57 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(167): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:35:05 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:07 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:07 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:07 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:09 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:09 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:09 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:11 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:11 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:11 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:13 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:13 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:13 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:14 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:14 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:14 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:16 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:16 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:16 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:18 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:18 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:18 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:20 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:20 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:20 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:21 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:21 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:21 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:23 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:23 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:23 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:25 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:25 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:25 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:26 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:26 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:26 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:28 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:28 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:28 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:29 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:29 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:29 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:31 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:31 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:31 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:35:32 Asia/Tokyo] POSTされた！
+[03-May-2020 03:35:32 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:35:32 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:36:29 Asia/Tokyo] PHP Notice:  Undefined index: knockDownCount in /Users/ayaka/dev/objective/gameover.php on line 32
+[03-May-2020 03:36:29 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:36:29 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/gameover.php:0
+[03-May-2020 03:37:36 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:36 Asia/Tokyo] ゲームスタート！
+[03-May-2020 03:37:38 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:38 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:38 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:40 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:40 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:40 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:41 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:41 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:41 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:43 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:43 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:43 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:44 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:44 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:44 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:46 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:46 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:46 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:47 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:47 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:47 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:48 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:48 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:48 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:50 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:50 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:50 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:51 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:51 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:51 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:52 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:52 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:52 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:52 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[03-May-2020 03:37:52 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:37:52 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[03-May-2020 03:37:52 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[03-May-2020 03:37:52 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[03-May-2020 03:37:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:37:57 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:58 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:58 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:58 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:37:59 Asia/Tokyo] POSTされた！
+[03-May-2020 03:37:59 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:37:59 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:38:00 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:00 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:00 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:38:02 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:02 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:02 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:38:02 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[03-May-2020 03:38:02 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:38:02 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[03-May-2020 03:38:02 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[03-May-2020 03:38:02 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[03-May-2020 03:38:02 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:38:06 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:06 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:06 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:38:08 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:11 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:11 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:11 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:38:12 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:12 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:12 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:38:14 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:14 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:14 Asia/Tokyo] 鬼の攻撃
+[03-May-2020 03:38:14 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[03-May-2020 03:38:14 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:38:14 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[03-May-2020 03:38:14 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[03-May-2020 03:38:14 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[03-May-2020 03:38:14 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:38:17 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:17 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:17 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:38:20 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:20 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[03-May-2020 03:38:20 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:38:20 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[03-May-2020 03:38:20 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[03-May-2020 03:38:20 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:189
+[03-May-2020 03:38:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:38:23 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:23 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:23 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:38:28 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:28 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:28 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:38:32 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:32 Asia/Tokyo] 主人公の攻撃
+[03-May-2020 03:38:32 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[03-May-2020 03:38:35 Asia/Tokyo] POSTされた！
+[03-May-2020 03:38:35 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[03-May-2020 03:38:35 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:38:35 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[03-May-2020 03:38:35 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[03-May-2020 03:38:35 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:189
+[03-May-2020 03:38:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:38:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:38:41 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[03-May-2020 03:39:00 Asia/Tokyo] POSTされた！
+[03-May-2020 03:39:00 Asia/Tokyo] ゲームスタート！
+[03-May-2020 03:39:00 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[03-May-2020 03:39:00 Asia/Tokyo] PHP Stack trace:
+[03-May-2020 03:39:00 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[03-May-2020 03:39:00 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[03-May-2020 03:39:00 Asia/Tokyo] PHP   3. init() /Users/ayaka/dev/objective/function.php:158
+[03-May-2020 03:39:00 Asia/Tokyo] PHP   4. createDemon() /Users/ayaka/dev/objective/function.php:142
+[03-May-2020 03:39:00 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:14:55 Asia/Tokyo] POSTされた！
+[04-May-2020 03:14:55 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:14:57 Asia/Tokyo] POSTされた！
+[04-May-2020 03:14:57 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:14:57 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:01 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:01 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:01 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:08 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:08 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:08 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:10 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:10 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:10 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:14 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:14 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:14 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:17 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:17 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:17 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:20 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:22 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:22 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:22 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:24 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:24 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:24 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:27 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:27 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:27 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:29 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:29 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:29 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:29 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:15:29 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:15:29 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:15:29 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:15:29 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[04-May-2020 03:15:29 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:15:36 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:36 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:36 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:15:41 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:41 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:41 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:15:46 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:50 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:50 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:50 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:51 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:51 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:51 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:54 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:54 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:54 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:55 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:55 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:55 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:57 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:57 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:57 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:15:59 Asia/Tokyo] POSTされた！
+[04-May-2020 03:15:59 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:15:59 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:16:01 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:01 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:01 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:16:01 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:16:01 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:16:01 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:16:01 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:16:01 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[04-May-2020 03:16:01 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:07 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:07 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:07 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:16:11 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:11 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:16:13 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:13 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:13 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:16:19 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:21 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:24 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:31 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:36 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:16:46 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:46 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:16:50 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:50 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:50 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:16:54 Asia/Tokyo] POSTされた！
+[04-May-2020 03:16:54 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:16:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:17:21 Asia/Tokyo] POSTされた！
+[04-May-2020 03:17:21 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:17:21 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:17:33 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:17:44 Asia/Tokyo] POSTされた！
+[04-May-2020 03:17:44 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:17:51 Asia/Tokyo] POSTされた！
+[04-May-2020 03:17:51 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:17:51 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:17:51 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:17:51 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:17:51 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:17:51 Asia/Tokyo] PHP   3. init() /Users/ayaka/dev/objective/function.php:158
+[04-May-2020 03:17:51 Asia/Tokyo] PHP   4. createDemon() /Users/ayaka/dev/objective/function.php:142
+[04-May-2020 03:17:51 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:17:54 Asia/Tokyo] POSTされた！
+[04-May-2020 03:17:54 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:17:56 Asia/Tokyo] POSTされた！
+[04-May-2020 03:17:56 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:17:56 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:17:57 Asia/Tokyo] POSTされた！
+[04-May-2020 03:17:57 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:17:57 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:11 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:11 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:18:12 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:12 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:12 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:14 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:16 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:16 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:16 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:17 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:17 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:17 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:19 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:19 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:19 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:21 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:21 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:21 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:23 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:23 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:23 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:24 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:24 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:24 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:25 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:25 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:25 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:27 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:29 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:30 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:30 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:30 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:32 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:32 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:32 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:34 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:34 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:34 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:36 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:36 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:36 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:38 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:38 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:38 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:18:38 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:18:38 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:18:38 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:18:38 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:18:38 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[04-May-2020 03:18:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:18:46 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:46 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:18:51 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:51 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:51 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:18:54 Asia/Tokyo] POSTされた！
+[04-May-2020 03:18:54 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:18:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:26:00 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:26:20 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:26:24 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:26:25 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:41:34 Asia/Tokyo] POSTされた！
+[04-May-2020 03:41:34 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:41:34 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:41:34 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:41:34 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:41:34 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:41:34 Asia/Tokyo] PHP   3. init() /Users/ayaka/dev/objective/function.php:158
+[04-May-2020 03:41:34 Asia/Tokyo] PHP   4. createDemon() /Users/ayaka/dev/objective/function.php:142
+[04-May-2020 03:41:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:41:37 Asia/Tokyo] POSTされた！
+[04-May-2020 03:41:37 Asia/Tokyo] ゲームスタート！
+[04-May-2020 03:41:42 Asia/Tokyo] POSTされた！
+[04-May-2020 03:41:42 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:41:42 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:41:46 Asia/Tokyo] POSTされた！
+[04-May-2020 03:41:46 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:41:46 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:42:26 Asia/Tokyo] POSTされた！
+[04-May-2020 03:42:26 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:42:26 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:42:37 Asia/Tokyo] POSTされた！
+[04-May-2020 03:42:37 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:42:37 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:42:48 Asia/Tokyo] POSTされた！
+[04-May-2020 03:42:48 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:42:48 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:42:52 Asia/Tokyo] POSTされた！
+[04-May-2020 03:42:52 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:42:52 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:42:58 Asia/Tokyo] POSTされた！
+[04-May-2020 03:42:58 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:42:58 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:03 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:03 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:03 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:08 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:08 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:08 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:12 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:12 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:12 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:18 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:18 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:18 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:22 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:22 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:22 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:26 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:26 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:26 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:32 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:32 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:32 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:36 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:36 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:36 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:40 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:40 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:43:40 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:43:44 Asia/Tokyo] POSTされた！
+[04-May-2020 03:43:44 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:43:44 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:43:44 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:43:44 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:43:44 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:189
+[04-May-2020 03:43:44 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:44:09 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:09 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:09 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:23 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:23 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:23 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:30 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:30 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:30 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:35 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:35 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:38 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:38 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:44:38 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:44:38 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:44:38 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:44:38 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:189
+[04-May-2020 03:44:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:44:40 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:40 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:40 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:43 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:43 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:43 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:45 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:45 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[04-May-2020 03:44:45 Asia/Tokyo] PHP Stack trace:
+[04-May-2020 03:44:45 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[04-May-2020 03:44:45 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[04-May-2020 03:44:45 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:189
+[04-May-2020 03:44:45 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[04-May-2020 03:44:49 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:49 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:49 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:44:52 Asia/Tokyo] POSTされた！
+[04-May-2020 03:44:52 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:44:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[04-May-2020 03:46:31 Asia/Tokyo] POSTされた！
+[04-May-2020 03:46:36 Asia/Tokyo] POSTされた！
+[04-May-2020 03:46:36 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:46:36 Asia/Tokyo] 鬼の攻撃
+[04-May-2020 03:46:39 Asia/Tokyo] POSTされた！
+[04-May-2020 03:46:39 Asia/Tokyo] 主人公の攻撃
+[04-May-2020 03:46:39 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:21:49 Asia/Tokyo] POSTされた！
+[13-May-2020 13:21:49 Asia/Tokyo] ゲームスタート！
+[13-May-2020 13:21:59 Asia/Tokyo] POSTされた！
+[13-May-2020 13:21:59 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:21:59 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:02 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:02 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:02 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:03 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:03 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:03 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:06 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:06 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:06 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:09 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:09 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:09 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:11 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:11 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:11 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:12 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:12 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:12 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:14 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:16 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:16 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:16 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:17 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:17 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:17 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:19 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:19 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:19 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:22:45 Asia/Tokyo] POSTされた！
+[13-May-2020 13:22:45 Asia/Tokyo] 主人公の攻撃
+[13-May-2020 13:22:45 Asia/Tokyo] 鬼の攻撃
+[13-May-2020 13:23:26 Asia/Tokyo] POSTされた！
+[13-May-2020 13:23:26 Asia/Tokyo] ゲームスタート！
+[16-May-2020 02:41:32 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:32 Asia/Tokyo] ゲームスタート！
+[16-May-2020 02:41:35 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:35 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:35 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:37 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:37 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:37 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:40 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:40 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:40 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:42 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:42 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:42 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:44 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:44 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:44 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:46 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:46 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:46 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:49 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:53 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:53 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:53 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:55 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:55 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:55 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:41:58 Asia/Tokyo] POSTされた！
+[16-May-2020 02:41:58 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:41:58 Asia/Tokyo] 鬼の攻撃
+[16-May-2020 02:42:01 Asia/Tokyo] POSTされた！
+[16-May-2020 02:42:01 Asia/Tokyo] 主人公の攻撃
+[16-May-2020 02:42:01 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:26:40 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:26:40 Asia/Tokyo] ゲームスタート！
+[06-Jun-2020 01:26:43 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:26:43 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:26:43 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:26:52 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:26:52 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:26:52 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:26:52 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Users/ayaka/dev/objective/function.php on line 129
+[06-Jun-2020 01:26:52 Asia/Tokyo] PHP Stack trace:
+[06-Jun-2020 01:26:52 Asia/Tokyo] PHP   1. {main}() /Users/ayaka/dev/objective/index.php:0
+[06-Jun-2020 01:26:52 Asia/Tokyo] PHP   2. require() /Users/ayaka/dev/objective/index.php:1
+[06-Jun-2020 01:26:52 Asia/Tokyo] PHP   3. createDemon() /Users/ayaka/dev/objective/function.php:182
+[06-Jun-2020 01:26:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[06-Jun-2020 01:26:59 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:26:59 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:26:59 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[06-Jun-2020 01:27:02 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:02 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:02 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function setHp() on null in /Users/ayaka/dev/objective/function.php:43
+Stack trace:
+#0 /Users/ayaka/dev/objective/function.php(166): Creature->attack(NULL)
+#1 /Users/ayaka/dev/objective/index.php(1): require('/Users/ayaka/de...')
+#2 {main}
+  thrown in /Users/ayaka/dev/objective/function.php on line 43
+[06-Jun-2020 01:27:04 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Users/ayaka/dev/objective/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /Users/ayaka/dev/objective/index.php on line 35
+[06-Jun-2020 01:27:30 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:30 Asia/Tokyo] ゲームスタート！
+[06-Jun-2020 01:27:33 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:33 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:33 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:38 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:38 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:38 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:41 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:44 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:44 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:44 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:47 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:47 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:47 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:49 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:49 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:49 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:50 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:50 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:50 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:52 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:52 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:52 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:54 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:54 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:54 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:55 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:55 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:55 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:27:59 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:27:59 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:27:59 Asia/Tokyo] 鬼の攻撃
+[06-Jun-2020 01:28:01 Asia/Tokyo] POSTされた！
+[06-Jun-2020 01:28:01 Asia/Tokyo] 主人公の攻撃
+[06-Jun-2020 01:28:01 Asia/Tokyo] 鬼の攻撃
